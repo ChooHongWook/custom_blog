@@ -3,6 +3,7 @@
     "check-types": "tsc --noEmit"
   },
   "devDependencies": {
+    "prettier": "3.5.3",
     "turbo": "^2.5.3"
   },
   "packageManager": "pnpm@10.0.0",
